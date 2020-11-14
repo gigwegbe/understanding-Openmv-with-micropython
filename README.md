@@ -1,5 +1,5 @@
 
-![OpenMV Kit](/asset/esp_pinouts.jpg)
+![OpenMV Kit](/asset/openmv.jpg)
 # Understanding Openmv with Micropython
 Walkthrough on how to use micropython on Openmv camera and other accessories.
 - [ ] - Interface with LCD
